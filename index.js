@@ -7,10 +7,10 @@ const express = require('express');
 const todoRoutes = require('./routes/todos');
 const bodyParser = require('body-parser');
 
-// Creating an Instance of the Express app
+// Create an instance of the Express app
 const app = express();
 
-// Port - ( Can be changed to preferred on your localhost or server)
+// Port - (Can be changed to preferred on your localhost or server)
 const port = 3000;
 
 // Middleware
