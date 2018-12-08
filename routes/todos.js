@@ -1,5 +1,5 @@
 /*
- RESTfull routes for the API
+ RESTful routes for the API
 */
 
 const express = require('express');
