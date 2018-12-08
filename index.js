@@ -2,7 +2,7 @@
 Primary File for the API
 */
 
-// Importing Dependencies
+// Require (import) Dependencies
 const express = require('express');
 const todoRoutes = require('./routes/todos');
 const bodyParser = require('body-parser');
